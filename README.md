@@ -1,24 +1,10 @@
-# Frontend developer (Junior)
+# Frontend developer (junior)
 
 Абрамович Ольга Николаевна
 
 +7 950 65 44 950
 
 olga.disole@gmail.com
-
----
-
-## Образование
-
-#### Высшее
-
-2007-2013 Уральский федеральный университет имени первого Президента России Б.Н. Ельцина, Екатеринбург. 
-*Специальность*: связи с общественностью
-
-#### Повышение квалификации, курсы
-
-2020-2022 Курс "Профессия frontend-разработчик" в Нетологии: 
-[программа курса](https://netology.ru/programs/front-end#/lessons)
 
 ---
 
@@ -30,122 +16,50 @@ olga.disole@gmail.com
 
 ---
 
-## Основные учебные проекты
+## Портфолио
 
-### JavaScript
+### [React-приложение для учета тренировок](https://github.com/Di-sole/ra-forms-steps)
 
-Практика в работе с DOM, обработке событий, организации тестирования, работе с HTML-формами и файлами, 
-работе с HTTP, использовании EventSource и WebSocket. 
-
-Инфраструктура всех проектов на базе Webpack, ESLint, Babel, Jest, Webpack Dev Server.
-
-
-**1. Пошаговая игра с возможностью сохранения результата.**
-
-- [репозиторий](https://github.com/Di-sole/js-advanced-diploma/)
-- [GitHub Pages](https://di-sole.github.io/js-advanced-diploma/)
-
-*Краткое описание*: Четыре уровня и шесть типов персонажей с разными дальностью атаки, радиусом перемещения, характеристиками. Первым ходит пользователь.
-
-**2. Игра-кликер.**
-
-- [репозиторий](https://github.com/Di-sole/2-ahj-events)
-- [GitHub Pages](https://di-sole.github.io/2-ahj-events/)
-
-*Краткое описание*: Классическая игра-кликер Whac-A-Mole. Игра продолжается до 5-ти промахов.
-
-**3. Валидатор кредитных карт.**
-
-- [репозиторий](https://github.com/Di-sole/2-ahj-testing)
-- [GitHub Pages](https://di-sole.github.io/2-ahj-testing/)
-
-*Краткое описание*: Виджет для проверки номера карты и её принадлежности определённой платёжной системе. Организовано unit-тестирование на Jest.
-
-**4. Система управления задачами c использованием Drag and Drop.**
-
-- [репозиторий](https://github.com/Di-sole/2-ahj-dnd)
-- [GitHub Pages](https://di-sole.github.io/2-ahj-dnd/)
-
-*Краткое описание*: Инструмент по типу Trello. Реализована возможность добавлять и удалять карточки, перетаскивать их между колонками.
-
-**5. Виджет-popover.**
-
-- [репозиторий](https://github.com/Di-sole/2-ahj-forms)
-- [GitHub Pages](https://di-sole.github.io/2-ahj-forms/)
-
-*Краткое описание*: Popover центрируется по горизонтали относительно элемента, который его вызвал. Авто-тестирование на взаимодействие с DOM на базе Puppeteer.
-
-**6. Анимированный контейнер.**
-
-- [репозиторий](https://github.com/Di-sole/2-ahj-animation-collapse)
-- [GitHub Pages](https://di-sole.github.io/2-ahj-animation-collapse/)
-
-*Краткое описание*: "collapsible"-контейнер с использованием css-анимации.
-
-**7. HelpDesk с прототипом API для управления заявками.**
-
-- [репозиторий](https://github.com/Di-sole/2-ahj-helpdesk-front)
-- [репозиторий для backend](https://github.com/Di-sole/2-ahj-helpdesk-backend)
-- [GitHub Pages](https://di-sole.github.io/2-ahj-helpdesk-front/)
-
-*Краткое описание*: Реализована возможность добавлять, редактировать, удалять заявки, просматривать детали и отмечать выполненные.
-Сервер написан с использованием koa и развернут на Heroku.
-
-**8. Чат.**
-
-- [репозиторий](https://github.com/Di-sole/2-ahj-ws-chat-front)
-- [репозиторий для backend](https://github.com/Di-sole/2-ahj-ws-chat-back)
-- [GitHub Pages](https://di-sole.github.io/2-ahj-ws-chat-front/)
-
-*Краткое описание*: Классический чат, реализован с использованием WebSocket.
-Сервер написан с использованием koa и развернут на Heroku.
-При загрузке страницы появляется окно, в котором запрашивается никнейм.
-
-
-### React
-
-Практика в работе с библиотекой React (hooks, props, state, context API), React-Router, React-Redux.
-
-**1. Портфолио с фильтрами.**
-
-- [репозиторий](https://github.com/Di-sole/ra-events-state-filter)
-- [GitHub Pages](https://di-sole.github.io/ra-events-state-filter/)
-
-
-**2. Список предложений каталога Etsy.com**
-
-- [репозиторий](https://github.com/Di-sole/ra-props-listing)
-- [GitHub Pages](https://di-sole.github.io/ra-props-listing/)
-
-
-**3. Список пользователей с детализацией.**
-
-- [репозиторий](https://github.com/Di-sole/ra-hooks-use-effect)
-- [GitHub Pages](https://di-sole.github.io/ra-hooks-use-effect/)
-
-*Краткое описание*: При клике на пользователя рядом появляется окно, отображающее детальную информацию о пользователе.
-
-
-**4. Приложение для учета тренировок.**
-
-- [репозиторий](https://github.com/Di-sole/ra-forms-steps)
-- [GitHub Pages](https://di-sole.github.io/ra-forms-steps/)
-
-*Краткое описание*: Небольшое приложение, которое хранит данные о прогулках, совершенных в течение недели.
+Небольшое приложение, которое хранит данные о прогулках, совершенных в течение недели.
 Состоит из формы, в которую вводится дата и количество пройденных километров, и таблицы с добавленными значениями.
 Данные сортируются по дате.
 
+### [Чат с использованием WebSocket](https://github.com/Di-sole/2-ahj-ws-chat-front)
 
-**5. Навигационное меню.**
-
-- [репозиторий](https://github.com/Di-sole/ra-router-menu)
-- [GitHub Pages](https://di-sole.github.io/ra-router-menu/)
-
-*Краткое описание*: Меню для сайта гоночного такси с использованием React Router.
+Классический чат, реализован с использованием WebSocket.
+Сервер написан с использованием koa и развернут на Heroku. Инфраструктура проекта на базе Webpack, ESLint, Babel, Webpack Dev Server.
 
 
-**6. CRUD**
+### Другие проекты:
 
-- [репозиторий](https://github.com/Di-sole/ra-redux)
+#### JavaScript
 
-*Краткое описание*: Панель управления услугами небольшого сайта с использованием React Redux. Реализована возможность добавления, удаления и фильтрации услуг.
+1. [HelpDesk с прототипом API](https://github.com/Di-sole/2-ahj-helpdesk-front)
+2. [Валидатор кредитных карт](https://github.com/Di-sole/2-ahj-testing)
+3. [Игра-кликер](https://github.com/Di-sole/2-ahj-events)
+4. [Пошаговая игра с возможностью сохранения результата](https://github.com/Di-sole/js-advanced-diploma/)
+5. [Система управления задачами c использованием Drag and Drop](https://github.com/Di-sole/2-ahj-dnd)
+6. [Виджет-popover](https://github.com/Di-sole/2-ahj-forms)
+7. [Анимированный контейнер](https://github.com/Di-sole/2-ahj-animation-collapse)
+
+
+#### React
+
+1. [Портфолио с фильтрами](https://github.com/Di-sole/ra-events-state-filter)
+2. [Каталог Etsy.com](https://github.com/Di-sole/ra-props-listing)
+3. [Список пользователей с детализацией](https://github.com/Di-sole/ra-hooks-use-effect)
+4. [CRUD-приложение(React Redux)](https://github.com/Di-sole/ra-redux)
+5. [Навигационное меню (React Router)](https://github.com/Di-sole/ra-router-menu)
+
+---
+
+## Образование
+
+#### Высшее
+
+2007-2013 Уральский федеральный университет имени первого Президента России Б.Н. Ельцина, Екатеринбург. 
+
+#### Повышение квалификации, курсы
+
+2020-2022 Курс "Профессия frontend-разработчик" в Нетологии: 
+[программа курса](https://netology.ru/programs/front-end#/lessons)
